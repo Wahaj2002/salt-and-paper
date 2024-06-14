@@ -1,0 +1,253 @@
+.logo{
+    width: 165px
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.nav-text{
+    font-size: 1.5rem;
+}
+.franchise{
+    border: 1px solid white;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+.order-btn{
+    border: 1px solid red;
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    padding: 15px 25px;
+    cursor: pointer;
+}
+.container1{
+    width: 100%;
+}
+.slt-txt{
+    color: white;
+    font-size: 52px;
+    padding: 15px;
+    text-align: center;
+}
+.p-text{
+    text-align: center;
+    font-size: 16px;
+}
+.img-brand{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.brand-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-image: linear-gradient(#160101, #000000);
+}
+.brand-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.product-btn {
+    background-color: black;
+    color: #ffff;
+    border: 1px solid white;
+    padding: 12px 25px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.isb-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 20px;
+}
+.isb-txt, .isb2-txt, .add-txt, .direction-btn {
+    margin-left: 50px;
+}
+.isb-txt{
+    font-size: 2rem;
+    color: #ff0000;
+}
+.isb2-txt{
+    font-size: 2rem;
+    color: white;
+    padding-bottom: 10px;
+}
+.add-txt{
+    font-size: 1.5rem;
+    color: white;
+}
+.direction-btn{
+    background-color: black;
+    color: #ffff;
+    border: 1px solid white;
+    padding: 15px 25px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-left: 50px; 
+    margin-bottom: 20px; 
+}
+.img-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.img-isb{
+    width: 100%;
+    height: auto;
+}
+.fsbimg-container{
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    gap: 20px;
+    flex-direction: row;
+   
+}
+.text-container{
+    justify-content: end;
+    align-items: end;
+    flex-direction: row ;
+    margin-left: auto;
+   padding-left: 0;
+   text-align: center;
+   
+    
+}
+.text-right{
+    text-align: right;
+}
+.fsb-text{
+    font-size: 2rem;
+    color: #ff0000;
+    align-items: center;
+    
+}
+.fsb2-text{
+    font-size: 2rem;
+    color: white;
+    padding-bottom: 10px; 
+}
+.ex-txt{
+    font-size: 52px;
+}
+ /* 7th section classes    */
+ .emporium-txtone{
+    padding: 8px;
+    font-size: 2rem;
+    text-decoration: none;
+    text-align: center;
+ }
+ .emporium-txttwo{
+    font-size: 1.3rem;
+    text-decoration: none;
+    text-align: center;
+ }
+ .exfranchise-container{
+   display: flex;
+    justify-content: center;
+    gap: 20px;
+ }
+
+
+ 
+
+  /* 7th section classes    */
+  .exfranchise-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    
+}
+.loc-red{
+    color: #ff0000;
+}
+.vlg-container{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+   margin-left: 20px;
+   padding-left: 20px;
+   margin-top: auto;
+   padding-bottom: auto;
+   text-align: center;
+   
+    
+     
+}
+.vlg-text{
+    font-size: 3rem;
+    color: #ff0000;
+    align-items: center;
+    
+    
+}
+.vlgtwo-text{
+    font-size: 2.5rem;
+    color: white;
+    padding-bottom: 10px; 
+}
+.vlg-btn{
+    background-color: black;
+    color: #ffff;
+    border: 1px solid white;
+    padding: 12px 25px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: white;
+    color: black;
+    gap: 20px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+    width: 350px ;
+    height: 150;
+    
+  
+  }
+ .card1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 10%;
+ }
+ .sclimg{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin: 2px;
+    align-items: center;
+ }
+ .arrow-icon{
+   border: solid 5px white;
+   border-radius: 20px;
+   background-color: white;
+   color: red;
+   
+ }
+ 
